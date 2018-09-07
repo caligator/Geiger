@@ -1,0 +1,11 @@
+[00:01:50] [Server thread/INFO]: Applying holder lookups
+[00:01:50] [Server thread/INFO]: Holder lookups applied
+[00:01:51] [Server thread/INFO]: Cleaning up all world data: 2 data blobs
+[00:01:51] [Server thread/INFO]: RFTools Dimensions: server is stopping. Shutting down gracefully
+[00:01:51] [Server thread/INFO]: Cleaning up RFTools dimensions
+[00:02:24] [main/WARN]: Recipe registry plugin is slow, took 24.99 ms. class mezz.jei.recipes.InternalRecipeRegistryPlugin
+[00:02:24] [main/WARN]: Recipe registry plugin is slow, took 177.7 ms. class binnie.extratrees.integration.jei.multifence.MultiFenceRecipeRegistryPlugin
+[00:02:24] [main/WARN]: Unloading IR sound system
+[00:03:53] [main/INFO]: Stopping!
+[00:03:53] [main/INFO]: SoundSystem shutting down...
+[00:03:58] [main/WARN]: Author: Paul Lamb, www.paulscode.com

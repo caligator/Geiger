@@ -1,0 +1,15 @@
+2018-08-28 14:22:05,896 [Server thread] INFO Treasure2 | AbstractChestGenerator.java:171 | CHEATER! COMMON chest at coords: -104 57 152
+2018-08-28 14:22:29,390 [Server thread] INFO Treasure2 | AbstractChestGenerator.java:171 | CHEATER! COMMON chest at coords: -40 68 280
+2018-08-28 14:22:51,624 [Server thread] INFO Treasure2 | AbstractChestGenerator.java:171 | CHEATER! COMMON chest at coords: 24 59 360
+2018-08-28 14:23:23,092 [Server thread] INFO Treasure2 | AbstractChestGenerator.java:171 | CHEATER! SCARCE chest at coords: 104 50 104
+2018-08-28 14:23:30,251 [Server thread] INFO Treasure2 | CanopyWellGenerator.java:79 | CHEATER! Wishing Well at coords: 104 86 328
+2018-08-28 15:34:21,682 [Server thread] INFO Treasure2 | AbstractChestGenerator.java:171 | CHEATER! RARE chest at coords: 168 51 40
+2018-08-28 16:38:52,557 [Server thread] INFO Treasure2 | AbstractChestGenerator.java:171 | CHEATER! COMMON chest at coords: 56 53 392
+2018-08-28 18:45:53,586 [Server thread] INFO Treasure2 | AbstractChestGenerator.java:171 | CHEATER! COMMON chest at coords: -264 59 408
+2018-08-28 18:46:08,472 [Server thread] INFO Treasure2 | AbstractChestGenerator.java:171 | CHEATER! COMMON chest at coords: -312 65 136
+2018-08-28 18:46:09,524 [Server thread] INFO Treasure2 | CanopyWellGenerator.java:79 | CHEATER! Wishing Well at coords: -40 70 472
+2018-08-28 18:46:19,849 [Server thread] INFO Treasure2 | AbstractChestGenerator.java:171 | CHEATER! SCARCE chest at coords: -360 31 296
+2018-08-28 18:46:53,347 [Server thread] INFO Treasure2 | AbstractChestGenerator.java:171 | CHEATER! UNCOMMON chest at coords: -440 70 136
+2018-08-28 18:47:13,784 [Server thread] INFO Treasure2 | AbstractChestGenerator.java:171 | CHEATER! COMMON chest at coords: -408 56 56
+2018-08-30 21:39:14,918 [Server thread] INFO Treasure2 | WoodDrawWellGenerator.java:79 | CHEATER! Wishing Well at coords: 344 4 232
+2018-08-30 21:44:02,081 [Server thread] INFO Treasure2 | WoodDrawWellGenerator.java:79 | CHEATER! Wishing Well at coords: -152 4 136

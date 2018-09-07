@@ -1,0 +1,72 @@
+[21:27:18][Client thread] Starting Futurepack 26.3.309
+[21:27:18][Client thread] Debug Enabled: false
+[21:29:42][Client thread] Block Block{fp:erse_plant} has no Item!
+[21:29:42][Client thread] Block Block{fp:mendel_berry_plant} has no Item!
+[21:29:42][Client thread] Block Block{fp:neon_liquid} has no Item!
+[21:29:42][Client thread] Block Block{fp:bitripentium_liquid} has no Item!
+[21:29:42][Client thread] Block Block{fp:salt_water} has no Item!
+[21:29:42][Client thread] Block Block{fp:glowmelo} has no Item!
+[21:29:42][Client thread] Block Block{fp:composite_door} has no Item!
+[21:29:42][Client thread] Block Block{fp:fireflies} has no Item!
+[21:29:42][Client thread] Block Block{fp:falling_tree} has no Item!
+[21:33:28][Client thread] Setup Dust Manager
+[21:33:29][Client thread] Loading Researches
+[21:33:29][Client thread] Now Loading Researches from java.io.InputStreamReader@7a4d06e2
+[21:33:29][Client thread] added 275 Researches
+[21:33:29][Client thread] Setup Industrial Furnace Recipes
+[21:33:29][Client thread] Setup Assermply Recipes
+[21:33:30][Client thread] Setup Industrial NeonFurnace Recipes
+[21:33:30][Client thread] Setup Zentrifuge Recipes
+[21:33:30][Client thread] Setup Crusher Recipes
+[21:33:30][Client thread] Setup Recycler-Shredder Recipes
+[21:33:30][FP-CrushingRecipes] Setup Crusher Recipes finised after: 3.249737 ms
+[21:33:30][Client thread] Setup Recycler-LaserCutter Recipes
+[21:33:30][Client thread] Setup Recycler-TimeManipulator Recipes
+[21:33:30][Client thread] Smelting Recipes
+[21:33:30][FP-Menue Thread] Starting Menue Thread
+[21:33:30][FP-Research Ingredient Replacer] Replaced research ingredients 8xtile.wire@0 with tags: [wire, type.neon]
+[21:33:30][FP-Research Ingredient Replacer] Replaced research ingredients 1xtile.modul.1@32767 with tags: [modul_1]
+[21:33:30][FP-Research Ingredient Replacer] Replaced research ingredients 1xtile.optiBench@32767 with tags: [opti_bench]
+[21:33:30][FP-Research Ingredient Replacer] Replaced research ingredients 1xtile.industrieFurnace@0 with tags: [industrie_ofen]
+[21:33:30][FP-Research Ingredient Replacer] Replaced research ingredients 1xtile.plasmaGenerator@32767 with tags: [plasma_generator_on]
+[21:33:30][FP-Research Ingredient Replacer] Replaced research ingredients 16xtile.wire@0 with tags: [wire, type.neon]
+[21:33:30][FP-Research Ingredient Replacer] Replaced research ingredients 4xtile.pipe@0 with tags: [pipe, type.item]
+[21:33:30][FP-Research Ingredient Replacer] Replaced research ingredients 8xtile.wire@0 with tags: [wire, type.neon]
+[21:33:30][FP-Research Ingredient Replacer] Replaced research ingredients 8xtile.wire@0 with tags: [wire, type.neon]
+[21:33:30][FP-Research Ingredient Replacer] Replaced research ingredients 4xtile.pipe@2 with tags: [pipe, type.neon, type.item]
+[21:33:30][FP-Research Ingredient Replacer] Unkniown format class futurepack.depend.api.ListPredicate
+[21:33:30][FP-Research Ingredient Replacer] Replaced research ingredients 2xtile.wire@0 with tags: [wire, type.neon]
+[21:33:30][FP-Research Ingredient Replacer] Replaced research ingredients 4xtile.wire@0 with tags: [wire, type.neon]
+[21:33:30][FP-Research Ingredient Replacer] Replaced research ingredients 8xtile.wire@0 with tags: [wire, type.neon]
+[21:33:30][FP-Research Ingredient Replacer] Replaced research ingredients 8xtile.pipe@0 with tags: [pipe, type.item]
+[21:33:30][FP-Research Ingredient Replacer] Replaced research ingredients 2xtile.pipe@32767 with tags: [pipe, type.item]
+[21:33:30][FP-Research Ingredient Replacer] Replaced research ingredients 4xtile.pipe@0 with tags: [pipe, type.item]
+[21:33:30][FP-Research Ingredient Replacer] Replaced research ingredients 8xtile.pipe@0 with tags: [pipe, type.item]
+[21:33:30][FP-Research Ingredient Replacer] Replaced research ingredients 4xtile.wire@0 with tags: [wire, type.neon]
+[21:33:30][FP-Research Ingredient Replacer] Replaced research ingredients 2xtile.wire@32767 with tags: [wire, type.neon]
+[21:33:30][FP-Research Ingredient Replacer] Replaced research ingredients 4xtile.wire@0 with tags: [wire, type.neon]
+[21:33:30][FP-Research Ingredient Replacer] Replaced research ingredients 4xtile.wire@4 with tags: [wire, type.network, type.neon]
+[21:33:30][FP-Research Ingredient Replacer] Replaced research ingredients 2xtile.pipe@0 with tags: [pipe, type.item]
+[21:33:30][FP-Research Ingredient Replacer] Replaced research ingredients 4xtile.wire@0 with tags: [wire, type.neon]
+[21:33:30][FP-Research Ingredient Replacer] Replaced research ingredients 4xtile.pipe@2 with tags: [pipe, type.neon, type.item]
+[21:33:30][FP-Research Ingredient Replacer] Replaced research ingredients 2xtile.wire@0 with tags: [wire, type.neon]
+[21:33:30][FP-Research Ingredient Replacer] Replaced research ingredients 3xtile.wire@2 with tags: [wire, type.super, type.neon]
+[21:34:52][Client thread] Unable to determine player for class cofh.core.inventory.InventoryCraftingFalse$NullContainer (Examined Fields:[])
+[21:35:27][Client thread] Unable to determine player for class com.buuz135.industrial.utils.CraftingUtils$1 (Examined Fields:[])
+[21:35:59][Client thread] Unable to determine player for class binnie.extratrees.machines.lumbermill.recipes.LumbermillRecipeManager$FakeCraftingHandler (Examined Fields:[])
+[21:38:52][Server thread] Loading Chunks(FP) for C:\Users\butch\Documents\Curse\Minecraft\Instances\Nuketown\saves\TESTING CRE
+[21:38:52][Server thread] Loading Chunks(FP) for C:\Users\butch\Documents\Curse\Minecraft\Instances\Nuketown\saves\TESTING CRE\DIM-1
+[21:38:53][Server thread] Loading Chunks(FP) for C:\Users\butch\Documents\Curse\Minecraft\Instances\Nuketown\saves\TESTING CRE\DIM1
+[21:38:53][Server thread] Loading Chunks(FP) for C:\Users\butch\Documents\Curse\Minecraft\Instances\Nuketown\saves\TESTING CRE\Abyssal_Wasteland
+[21:38:53][Server thread] Loading Chunks(FP) for C:\Users\butch\Documents\Curse\Minecraft\Instances\Nuketown\saves\TESTING CRE\The_Dreadlands
+[21:38:53][Server thread] Loading Chunks(FP) for C:\Users\butch\Documents\Curse\Minecraft\Instances\Nuketown\saves\TESTING CRE\Omothol
+[21:38:53][Server thread] Loading Chunks(FP) for C:\Users\butch\Documents\Curse\Minecraft\Instances\Nuketown\saves\TESTING CRE\The_Dark_Realm
+[21:38:53][Server thread] Loading Chunks(FP) for C:\Users\butch\Documents\Curse\Minecraft\Instances\Nuketown\saves\TESTING CRE\LOST
+[21:38:54][Server thread] Loading Chunks(FP) for C:\Users\butch\Documents\Curse\Minecraft\Instances\Nuketown\saves\TESTING CRE\DIM20
+[21:38:54][Server thread] It seems like Morpheus is not installed.
+[21:38:54][Server thread] Loading Chunks(FP) for C:\Users\butch\Documents\Curse\Minecraft\Instances\Nuketown\saves\TESTING CRE\DIM_Menelaus
+[21:38:54][Server thread] It seems like Morpheus is not installed.
+[21:38:54][Server thread] Loading Chunks(FP) for C:\Users\butch\Documents\Curse\Minecraft\Instances\Nuketown\saves\TESTING CRE\DIM_Tyros
+[21:38:54][Server thread] Loading Chunks(FP) for C:\Users\butch\Documents\Curse\Minecraft\Instances\Nuketown\saves\TESTING CRE\DIM_belowbedrock
+[21:38:54][Server thread] Loading Chunks(FP) for C:\Users\butch\Documents\Curse\Minecraft\Instances\Nuketown\saves\TESTING CRE\advRocketry\DIM-2
+[21:39:28][Netty Local Client IO #0] Send Research Request to Server
